@@ -1,0 +1,10 @@
+td {
+  padding: 20px;
+  border: 1px solid black;
+}
+td span {
+  visibility: hidden;
+}
+table {
+  border-spacing: 0px;
+}
