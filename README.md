@@ -20,3 +20,7 @@ To get each project set up, simply open the _index.html_ file within each projec
    - Stores tasks in local storage and supports filtering. Completed through a course on Udemy by Brad Traversy
 7. Book List
    - Adds books to local storage and displays them. Implements ES6 classes. Completed through a course on Udemy by Brad Traversy
+8. Easy HTTP XHR
+   - Custom built http library based on AJAX and the XMLHttpRequest object in javascript. Oldschool-ish. Completed through a course on Udemy by Brad Traversy
+9. Chuck Norris Joke Generator
+   - Joke generator based on using an actual API through AJAX and the XMLHttpRequest object in javascript. Also Oldschool-ish. Completed through a course on Udemy by Brad Traversy
