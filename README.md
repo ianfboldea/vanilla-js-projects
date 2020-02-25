@@ -26,3 +26,5 @@ To get each project set up, simply open the _index.html_ file within each projec
    - Joke generator based on using an actual API through AJAX and the XMLHttpRequest object in javascript. Also Oldschool-ish. Completed through a course on Udemy by Brad Traversy
 10. Easy HTTP XHR
     - Custom built http library based on Fetch API in vanilla javascript. Completed through a course on Udemy by Brad Traversy
+11. Easy HTTP Async
+    - Custom built http library based on Fetch API using async await in vanilla javascript. Completed through a course on Udemy by Brad Traversy
