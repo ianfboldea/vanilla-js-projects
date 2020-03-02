@@ -8,7 +8,7 @@ To get each project set up, simply open the _index.html_ file within each projec
 
 1. National Parks Infograbber
 
-- Helps you decide which park to hit next! Just a quick project, might work on it more later and flesh it out!
+    - Helps you decide which park to hit next! Just a quick project, might work on it more later and flesh it out!
 
 2. Github Finder
 
@@ -20,7 +20,7 @@ To get each project set up, simply open the _index.html_ file within each projec
 
 4. Chuck Norris Joke Generator
 
-- Joke generator based on using an actual API through AJAX and the XMLHttpRequest object in javascript. Also Oldschool-ish. Completed through a course on Udemy by Brad Traversy
+     - Joke generator based on using an actual API through AJAX and the XMLHttpRequest object in javascript. Also Oldschool-ish. Completed through a course on Udemy by Brad Traversy
 
 5. Stock Calculator
 
@@ -44,7 +44,7 @@ To get each project set up, simply open the _index.html_ file within each projec
 
 10. Tic Tac Toe
 
-- A simple, barebones version of tic tac toe.
+    - A simple, barebones version of tic tac toe.
 
 11. Task List
 
