@@ -1,6 +1,6 @@
 class NPS {
   constructor() {
-    this.api_key = 'put your own here you cant have mine';
+    this.api_key = '';
   }
   async getParks(params) {
     let paramList = '';
