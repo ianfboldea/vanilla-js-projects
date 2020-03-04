@@ -60,3 +60,6 @@ To get each project set up, simply open the _index.html_ file within each projec
 
 14. Easy HTTP XHR
     - Custom built http library based on Fetch API in vanilla javascript. Completed through a course on Udemy by Brad Traversy
+
+14. Regex Form Validation
+    - Custom built form validation vanilla javascript. Completed through a course on Udemy by Brad Traversy
