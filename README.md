@@ -63,3 +63,6 @@ To get each project set up, simply open the _index.html_ file within each projec
 
 14. Regex Form Validation
     - Custom built form validation vanilla javascript. Completed through a course on Udemy by Brad Traversy
+   
+15. Profile Scoller
+    - Example of using javascript iterators through a portion of a dating website. Completed through a course on Udemy by Brad Traversy
