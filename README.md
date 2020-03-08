@@ -6,9 +6,17 @@ To get each project set up, simply open the _index.html_ file within each projec
 
 ### Projects List
 
+## Big Projects
+
+1. Tracalorie Project
+
+   - Calorie tracking project with a custom state management system using the Javascript Module Pattern. Persists data to local storage. UI built from Materialize CSS and Font Awesome. Built in Brad Traversy's Udemy course.
+
+## Fun Sized Projects
+
 1. National Parks Infograbber
 
-    - Helps you decide which park to hit next! Just a quick project, might work on it more later and flesh it out!
+   - Helps you decide which park to hit next! Just a quick project, might work on it more later and flesh it out!
 
 2. Github Finder
 
@@ -20,7 +28,7 @@ To get each project set up, simply open the _index.html_ file within each projec
 
 4. Chuck Norris Joke Generator
 
-     - Joke generator based on using an actual API through AJAX and the XMLHttpRequest object in javascript. Also Oldschool-ish. Completed through a course on Udemy by Brad Traversy
+   - Joke generator based on using an actual API through AJAX and the XMLHttpRequest object in javascript. Also Oldschool-ish. Completed through a course on Udemy by Brad Traversy
 
 5. Stock Calculator
 
@@ -59,10 +67,16 @@ To get each project set up, simply open the _index.html_ file within each projec
     - Custom built http library based on AJAX and the XMLHttpRequest object in javascript. Oldschool-ish. Completed through a course on Udemy by Brad Traversy
 
 14. Easy HTTP XHR
+
     - Custom built http library based on Fetch API in vanilla javascript. Completed through a course on Udemy by Brad Traversy
 
-14. Regex Form Validation
+15. Regex Form Validation
+
     - Custom built form validation vanilla javascript. Completed through a course on Udemy by Brad Traversy
-   
-15. Profile Scoller
+
+16. Profile Scoller
+
     - Example of using javascript iterators through a portion of a dating website. Completed through a course on Udemy by Brad Traversy
+
+17. State Pattern MiniProject
+    - Example of using the javascript state pattern. Gives excellent insight into how Redux and other state managers work. Completed through a course on Udemy by Brad Traversy
