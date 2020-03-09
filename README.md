@@ -1,18 +1,24 @@
 # Vanilla Javascript Projects
 
-### Getting everything setup
+## Getting everything setup
 
 To get each project set up, simply open the _index.html_ file within each project folder. A better choice would be using the liveserver extension for VS Code.
 
-### Projects List
+## Projects List
 
-## Big Projects
+These are all of the fun little projects I built in the process of increasing my Vanilla JS skills. Most of these projects were built from Brad Traversy's Udemy course, but some of these were built from my own creativity and intution. Please check my custom projects out! Much Love!
 
-1. Tracalorie Project
+### Big Projects
+
+1. Microposts Project
+
+   - Full Stack CRUD App based off of the previously custom created EasyHTTP Library using async/await. Uses webpack and babel to compile the code. Uses JSON Server for the backend. Built in Brad Traversy's Udemy course.
+
+2. Tracalorie Project
 
    - Calorie tracking project with a custom state management system using the Javascript Module Pattern. Persists data to local storage. UI built from Materialize CSS and Font Awesome. Built in Brad Traversy's Udemy course.
 
-## Fun Sized Projects
+### Fun Sized Projects
 
 1. National Parks Infograbber
 
